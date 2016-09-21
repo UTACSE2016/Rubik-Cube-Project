@@ -1,1 +1,1 @@
-# Rubik-s-Cube-Project
+# Rubik's-Cube-Project
